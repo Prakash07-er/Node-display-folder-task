@@ -1,0 +1,16 @@
+{
+  "name": "folder-task",
+  "version": "1.0.0",
+  "description": "display folder and file icon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "script": "nodmon index.js"
+  },
+  "author": "Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
